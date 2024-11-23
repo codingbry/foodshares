@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678590159867",
+    "project_id": "foodshare-e1ecb",
+    "storage_bucket": "foodshare-e1ecb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678590159867:android:ca3890afc43622407b095e",
+        "android_client_info": {
+          "package_name": "com.example.fireshares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjBhhyn2EAHGAWWoDUbsRAQCpvip_c6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678590159867:android:45f0da0050f7fab87b095e",
+        "android_client_info": {
+          "package_name": "com.example.foodshares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjBhhyn2EAHGAWWoDUbsRAQCpvip_c6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
